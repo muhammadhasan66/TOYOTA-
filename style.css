@@ -1,0 +1,88 @@
+.navbar- {
+    color: red;
+}
+.navbar-button {
+    padding: 0 20px;
+    border: 2px solid black;
+    font-weight: bolder;
+}
+/* .image-container {
+    background-image: url(./assets/no\ 1.jpg);
+} */
+.nav-item a {
+    font-weight: bold;
+}
+.button-img-bottom {
+    width: 100px;
+    font-size: xx-small;
+    /* margin: 0 30px; */
+    position: relative;
+    left: 75px;
+    top: -150px;
+}
+.date {
+    color: white;
+    /* background-color: black; */
+    width: 100px;
+    position: relative;
+    left: 85px;
+    top: -140px;
+
+}
+.text {
+    /* background-color: gray; */
+    color: white;
+    position: relative;
+    left: 75px;
+    top: -150px;
+
+    /* padding: -150px 0; */
+
+}
+.text-align-center {
+    font-size: medium;
+    text-align: center;
+    color:rgb(35, 35, 51) ;
+    margin: -90PX;
+}
+.margin-top {
+    margin: 105px 0px;
+}
+
+
+/* Second image section  */
+
+.second-image-container {
+    background-color: black;
+    position: absolute;
+    bottom: -550;
+    margin: 0 200px;
+    background-position: center;
+    width :70% 
+}
+.text-2{
+    font-size: large;
+    font-weight: bolder;
+    /* position: relative;
+    left: 75px;
+    top: -150px; */
+    color: white;
+
+}
+.date-2 {
+    color: white;
+    font-weight: bold;
+}
+
+/* Second image setion end */
+
+
+/* -------== */
+/* Third Image section  */
+
+
+.third-image-container {
+position: relative;
+bottom: -800px;
+left: 300px;
+}
